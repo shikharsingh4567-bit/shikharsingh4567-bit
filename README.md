@@ -1,19 +1,16 @@
 <h1 align="center">Hi 👋, I'm Shikhar Singh</h1>
-<h3 align="center">A First-Year B.Tech CSE Student | Future Software Engineer 🚀</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+<h3 align="center">First-year B.Tech CSE student | Learning to build real software 🚀</h3>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🎓 First-year **B.Tech Computer Science Engineering** student  
+- 🎓 First-year **B.Tech Computer Science Engineering** student at **MIT ADT University**
 - 🌱 Currently learning **C++, Python, Git & GitHub**
-- 🧠 Interested in **Problem Solving, DSA, Web Development & AI**
+- 🧠 Interested in **problem solving, DSA, web development & AI**
+- 🎤 Organizing committee member for **3 Model UN conferences**; took part in a Lok Sabha committee at LRIMUN
+- 🏆 Jury shadow for **Smart India Hackathon (SIH)** at my college
 - 🚀 Building projects, learning daily, and growing one commit at a time
-- 📫 Reach me at: **your-email@example.com**
 
 ---
 
@@ -25,10 +22,21 @@
 
 ---
 
-### 📌 Current Focus
+### 📌 Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [CPP-Programming-](https://github.com/shikharsingh4567-bit/CPP-Programming-) | OOP lab experiments: student result system, rectangle calculator, product sales billing | C++ |
+
+More projects coming soon. 
+
+---
+
+### 🎯 Current Focus
 
 ```text
 🌱 Strengthening programming fundamentals
 🧩 Practicing problem-solving and DSA
-💻 Creating beginner-friendly projects
+💻 Building projects and pushing them to GitHub
 🚀 Learning how real software is built
+```
