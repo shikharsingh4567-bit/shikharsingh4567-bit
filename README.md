@@ -26,9 +26,10 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| [passguard](https://github.com/shikharsingh4567-bit/passguard) | Command line password toolkit: strength checker with entropy estimate, and secure password generator | C++17, Make |
 | [CPP-Programming-](https://github.com/shikharsingh4567-bit/CPP-Programming-) | OOP lab experiments: student result system, rectangle calculator, product sales billing | C++ |
 
-More projects coming soon. 
+More projects coming soon.
 
 ---
 
